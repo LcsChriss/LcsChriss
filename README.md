@@ -1,5 +1,5 @@
 Hi, I’m @LcsChriss
-- 👀 I’m interested in Gaming developer, software and website development
+- 👀 I’m interested in Gaming development, software and website development
 - 🌱 I’m currently learning Java, C, C++ ,  C# JavaScript, Phyton, PHP, Web Developement!!!
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me 
