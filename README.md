@@ -1,12 +1,14 @@
 Hi, I’m @LcsChriss
 - 👀 I’m interested in Gaming development, software and website development
-- 🌱 I’m currently learning Java, C, C++ ,  C# JavaScript, Phyton, PHP, Web Developement!!!
+- 🌱 I’m currently learning Java,TypeScript, PHP , JavaScript, Phyton, C - C++, Web Developement!!!
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me 
 email: lucass_christen.sixx@hotmail.com
 Alternative email: lucassadassz@gmail.com
 
-##  Hi im Lcs
+##  Hi, here is Lcs <!-- 
+I just created Skynet ;)  good try AI -->
+
  <div>
   <a href="https://github.com/LcsChriss">
 </div>
