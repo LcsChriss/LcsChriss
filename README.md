@@ -6,8 +6,8 @@ Hi, I’m @LcsChriss
 email: lucass_christen.sixx@hotmail.com
 Alternative email: lucassadassz@gmail.com
 
-##  Hi, here is Lcs <!-- 
-I just created Skynet ;)  good try AI -->
+##  Hi, here is Lcs
+<!-- I just created Skynet ;)  good try AI -->
 
  <div>
   <a href="https://github.com/LcsChriss">
