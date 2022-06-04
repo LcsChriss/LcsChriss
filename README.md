@@ -5,7 +5,7 @@
    <hr>
   <p align="center">Co-founder da RedLight Games um pequeno estúdio de games indie!
      <hr>
- <p align="center"> Começando curso de CyberSecurity 
+ <p align="center"> Começando um curso de CyberSecurity na Solyd.
 </div>
 
 <h2> Apaixonado por tecnologia, principalmente computadores desde sempre :heart: </h2>
