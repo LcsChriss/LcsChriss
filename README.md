@@ -3,7 +3,7 @@
  <hr>
   <p align="center">Estudante de Desenvolvimento Web, Desginer e Unity Developer. 
    <hr>
-  <p aling="center">Co-founder da RedLight Games uma pequeno estúdio de games indie!
+  <p align="center">Co-founder da RedLight Games uma pequeno estúdio de games indie!
      <hr>
  <p align="center"> Começando curso de CyberSecurity 
 </div>
